@@ -40,4 +40,4 @@ flake8 app
 
 ## Notes
 - `opencv-python-headless` avoids GUI deps; the Dockerfile adds minimal libs just in case.
-- Replace Canny with your own CV function when ready.
+
